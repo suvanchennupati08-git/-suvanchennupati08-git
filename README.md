@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi! I'm Suvan, a 1st-year B.Tech Computer Science & Engineering student at Amrita Vishwa Vidyapeetham.<br><br>🎓 1st Year B.Tech CSE Student<br>🐍 Currently learning Python<br>💡 Learning Python fundamentals, variables, data types, operators, conditionals, loops, functions, lists, tuples, dictionaries, and basic problem solving<br>🧩 Practicing logical thinking and algorithm development through Python<br>🌱 Currently building a strong foundation in programming and computer science<br>🚀 Exploring new concepts and working towards building my own projects<br>🎯 Aspiring to become a Software Engineer<br><br>“Learn. Build. Improve. Repeat.”<br>
+Hi! I'm Suvan, a 1st-year B.Tech Computer Science & Engineering student at Amrita Vishwa Vidyapeetham.<br><br>🎓 1st Year B.Tech CSE Student<br>🐍 Currently learning Python<br>💡 Learning Python fundamentals, variables, data types, operators, conditionals, loops, functions, lists, tuples, dictionaries, and basic problem solving<br>🧩 Practicing logical thinking and algorithm development through Python<br>🌱 Currently building a strong foundation in programming and computer science<br>🚀 Exploring new concepts and working towards building my own projects<br>🎯 Aspiring to become a Software Engineer<br><br>“Learn. Build. Improve. Repeat.”
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Suvan Chennupati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CHENNUPATI SUVAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suvanchennupati08@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suvan_chennupati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suvanchennupati08@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
